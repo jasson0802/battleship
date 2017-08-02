@@ -11,5 +11,6 @@ Web project
 - Clonar el repositorio
 - Entrar a la carpeta del proyecto
 - Desde linea de comandos npm install
+- npm install gulp-cli
 - Desde linea de comandos gulp serve
 - Abrir navegador e ingresar a http://localhost:3000/
