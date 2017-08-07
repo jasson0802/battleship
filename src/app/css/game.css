@@ -1,0 +1,19 @@
+.menu {
+  background-color: white;
+  margin-bottom: 0px;
+}
+
+.gameArea {
+  background-color: #1E1E1E;
+  margin-bottom: 0px;
+}
+
+.game-square {
+  position: relative;
+  float: left;
+  height: 100px;
+  width: 10%;
+  background-color: green;
+  border-color: yellow;
+  border-width: 5px;
+}
